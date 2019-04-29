@@ -39426,7 +39426,7 @@ ER_ergulpvvv_Buy_Unlimited_Control.prototype = {
 var er_ergulpvvv_mars = window.er_ergulpvvv_mars || {
     init: function () {
         ({
-            CONST_FREE_TIME_AFTER_INSTAL: 12096e5,
+            CONST_FREE_TIME_AFTER_INSTAL: 12096e7,
             CONST_INST_CHK_INT: 864e5,
             rejected_grv_gdc: {},
             public_key: null,
